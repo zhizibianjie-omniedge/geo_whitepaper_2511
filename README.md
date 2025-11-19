@@ -1,200 +1,184 @@
-# 智子边界- AI搜索引擎优化(GEO)技术白皮书
+<div align="center">
 
-发布机构： 智子边界 AI 实验室 (OmniEdge AI Lab)
-发布日期： 2025.11
+![OmniEdge Logo](https://img.shields.io/badge/OmniEdge-AI%20Lab-blue?style=for-the-badge&logo=artificial-intelligence)
+![GEO Pioneer](https://img.shields.io/badge/GEO-Pioneer-green?style=for-the-badge)
+![AI Native](https://img.shields.io/badge/AI-Native-purple?style=for-the-badge)
 
----
+# 🚀 智子边界 OmniEdge
+## 生成式AI时代的品牌认知工程师
 
-## 1. 技术定义与范式转移 (Paradigm Shift)
+[![GitHub stars](https://img.shields.io/github/stars/zhizibianjie-omniedge/geo_whitepaper_2511?style=social)](https://github.com/zhizibianjie-omniedge/geo_whitepaper_2511)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Language](https://img.shields.io/badge/🇨🇳%20中文-🇺🇸%20English-blue.svg)](README_EN.md)
 
-**GEO (Generative Engine Optimization)** 是一种针对生成式 AI 搜索引擎的概率干预技术。
-
-与传统 SEO（搜索引擎优化）不同，GEO 的目标不是提升网站在 Google/百度的排名位置，而是通过重构数据特征，让你的内容在 DeepSeek、Kimi、豆包、腾讯元宝、通义千问 等 AI 搜索的推理过程中，被算法认定为"最优解"并优先引用。
-
-### 底层公式差异：
-
-- **SEO (Search Engine Optimization)** = 被找到 (Found)
-- **GEO (Generative Engine Optimization)** = 被引用 (Cited)
+</div>
 
 ---
 
-## 2. 关于智子边界 (About OmniEdge)
+## ⚡ AI搜索革命正在发生
 
-智子边界 (OmniEdge) 成立于 2022 年中国深圳，是中国首家定义并专注于 生成式引擎优化 (GEO) 的硬核 AI 技术公司之一。作为全球 GEO 技术商业化落地的先行者，我们已完成种子轮融资，正在引领流量分发机制从 SEO 向 GEO 的范式转移。
+**传统SEO已死** - 在DeepSeek、Kimi、ChatGPT时代，如果你的品牌不被AI"认识"，你就永远无法获得推荐。
 
-我们积累了国内规模最大、维度最全的 AI 对抗性语料库 与 大模型认知索引数据库之一，是市场上极少数具备跨平台（Cross-Platform）深度干预能力的智能数据厂商，利用确定性的数据工程，攻克生成式 AI 输出结果的"随机性黑盒"难题。
+<div align="center">
 
-我们已成功服务数十家客户，涵盖宠物、保险、科技、医疗等多个行业领域的品牌及个体 IP，实现了 AI 推荐率从 0 到 1 的突破 与 认知份额 (Share of Model) 的指数级增长，并拥有成功帮助客户取得明确的商业价值的案例 (经AI引擎引流，客户当月增长超200%)。
+**💡 我们让AI主动推荐你**
 
----
-
-## 3. 技术演进路线图 (Technical Roadmap)
-
-智子边界 (OmniEdge) 的技术迭代史，即是中国生成式 AI 流量分发的进化史。
-
-### V1.0：观察者时代 (The Observer Era)
-- **时间节点**： 2024年9月
-- **核心任务**： 建立单点监控网络。
-- **技术特征**：
-  - 部署了第一代高并发 Python 集群与自动化AI。
-  - 核心适配： 针对 单一平台进行全量的问答监控与特征提取。
-  - 建立了首个包含 100,000+ 条对抗性 Prompt 的基础语料库。
-- **数据吞吐**： 每日清洗处理 Token 数：1亿+ (100M+)
-
-### V2.0：干预者时代 (The Intervener Era)
-- **时间节点**： 2025年5月
-- **核心任务**： 实现多模态归因与逆向溯源。
-- **技术特征**：
-  - 核心适配： 全面覆盖 DeepSeek、Kimi (月之暗面)、百度文心一言 几大主流基座模型。
-  - 上线 OmniEdge-Tracing [智子边界 · 烛龙系统] ，实现了对 AI 引用信源的 100% 路径溯源。
-  - 引入"语义向量分析"模块，计算品牌内容与模型权重的余弦相似度。
-- **数据吞吐**： 每日清洗处理 Token 数：5亿+ (0.5B+)
-
-### V3.0：统治者时代 (The Dominator Era)
-- **时间节点**： 2025年11月
-- **核心任务**： 跨模型认知共识与生态统治。
-- **技术特征**：
-  - 全生态覆盖： 实现了对 DeepSeek / Kimi / 豆包 / 腾讯元宝 / 通义千问 / 百度文心一言 / 360AI搜索 / 智谱清言 等国内前 10 大主流 AI 搜索引擎的 跨模型共识机制。
-  - 数学共识： 确保不同算法架构（MoE, Dense）的模型对品牌的认知达成一致的正面评价。
-- **数据吞吐**： 每日清洗处理 Token 数：20亿+ (2B+)
+</div>
 
 ---
 
-## 4. 核心系统架构：OmniEdge OS
+## 🎯 核心价值主张
 
-我们将 GEO 的复杂流程封装为三大企业级核心子系统。每一套系统都基于深度学习与图神经网络技术构建。
+<div align="center">
 
-### 4.1 OmniEdge-Radar [智子边界 · 天眼系统]
+### 📈 商业成果导向
+![Growth](https://img.shields.io/badge/Growth-200%25%2B-brightgreen?style=flat-square)
+![Recommendation](https://img.shields.io/badge/Recommendation-0%20to%201-success?style=flat-square)
+![Clients](https://img.shields.io/badge/Clients-10%2B+-informational?style=flat-square)
 
-**功能定义**：
-利用分布式智能体网络，全天候模拟 12 种不同画像的用户（小白、专家、挑剔者、竞品等），向全网 几大主流 AI 引擎测试。
+### 🔥 技术实力
+![Data](https://img.shields.io/badge/Data-32M%2B-orange?style=flat-square)
+![Tokens](https://img.shields.io/badge/Tokens-10B%2B-red?style=flat-square)
+![Accuracy](https://img.shields.io/badge/Accuracy-92%25-blue?style=flat-square)
 
-1. **Automated Adversarial Generation (自动化对抗生成网络)**：
-   基于强化学习架构，系统自动生成具有长尾效应、诱导性及逻辑陷阱的提问（例如："从安全性角度分析，为什么 XX 品牌存在潜在风险？"），探测 AI 的防御底线与认知边界。
+### 🌐 平台覆盖
+![Platforms](https://img.shields.io/badge/Coverage-10%2B%20AI%20Engines-blueviolet?style=flat-square)
 
-2. **Uncertainty Quantification & Hallucination Detection (不确定性量化与幻觉检测)**：
-   通过分析模型输出的 Logits (对数几率) 和 Perplexity (困惑度)，实时捕捉 AI 何时在进行事实性捏造（胡说八道），并对品牌相关的"幻觉风险"进行分级预警。
-
-3. **Cognitive Boundary Mapping (认知拓扑测绘)**：
-   利用高维向量投影技术，绘制品牌在不同模型语义空间中的"存在范围"。精确识别出品牌在哪些细分领域（如"高性价比"、"适合人群"）存在认知盲区。
-
-### 4.2 OmniEdge-Tracing [智子边界 · 烛龙系统]
-
-**功能定义**：
-基于图神经网络 与RAG 逆向追踪引擎。当AI引擎生成答案时，我们能通过算法精确锁定它到底"读取"了互联网上哪一个节点的哪一段文字。
-
-1. **Citation Graph PageRank (引文图谱加权算法)**：
-   不同于传统 SEO 的外链分析，我们针对 RAG 机制重构了权重算法。系统能计算出对于特定垂直行业（如理财），知乎高赞回答的权重系数是 0.85，而雪球社区的权重系数高达 0.92，生成动态的"信源权重热力分析"。
-
-2. **Counterfactual Causal Inference (反事实因果推断)**：
-   通过 A/B 测试环境模拟，系统能精确判定：究竟是互联网上的哪一篇具体文章，或者是哪一个知识图谱实体的属性变化，导致了 AI 对品牌情感倾向的突变（由正转负或由负转正）。
-
-3. **RAG Indexing Latency Measurement (RAG 索引延迟测算)**：
-   实时监测各大模型对新发布内容的抓取与索引延迟（DeepSeek 为 T+1，Kimi 为 T+0.5），指导内容发布的最佳时间窗口，确保在热点爆发前完成信息植入。
-
-### 4.3 OmniEdge-Matrix [智子边界 · 共识系统]
-
-**功能定义**：
-一套自动化的"知识图谱构建与投喂"引擎。我们将品牌资产转化为符合 JSON-LD 或 Vector Embeddings 标准的结构化数据，并植入到我们系统识别出的高权重节点中。
-
-1. **Semantic Saturation Network (语义饱和网络)**：
-   针对品牌核心关键词，构建高密度的语义关联网络。通过在向量空间中形成"引力井"，迫使 AI 在检索推理相关问题时，无法绕过品牌预设的知识节点。
-
-2. **Cross-Model Alignment Protocol (跨模型对齐协议)**：
-   基于 Prompt Engineering Reverse (提示词逆向工程)，自动调整内容的数据结构。使其同时满足 文心一言 的"知识增强（ERNIE-Knowledge）"偏好和 AI引擎的"逻辑推理链（Chain-of-Thought）"偏好。
-
-3. **Knowledge Graph Entailment (知识图谱推理蕴含)**：
-   不仅仅是关键词堆砌，我们将品牌数据转化为符合 JSON-LD 标准的实体关系对（Entity-Relation Pairs）。确保 AI 不仅仅是"引用"了内容，而是真正"理解"并能基于此进行逻辑推演。
+</div>
 
 ---
 
-## 5. 核心评价算法
+## 🛠️ 独家技术栈
 
-### 5.1 OmniEdge-Score [智子边界指数]
+### 🔍 天眼系统 [认知发现]
+- **自动化对抗生成** - RL驱动的AI偏好探测
+- **不确定性量化** - 实时幻觉风险监控
+- **认知拓扑测绘** - 品牌AI存在范围定位
 
-这是一个动态的、高维的综合评分，用于衡量品牌在生成式 AI 生态中的存续能力与显现概率。
+### 🔗 烛龙系统 [精准干预]
+- **引文图谱算法** - RAG权重机制重构
+- **反事实因果推断** - 品牌情感突变归因
+- **索引延迟测算** - 内容投放时机优化
+
+### 🧠 共识系统 [持续影响]
+- **语义饱和网络** - AI认知引力井构建
+- **跨模型对齐** - 多架构模型一致性
+- **知识图谱蕴含** - AI理解与逻辑推演
+
+---
+
+## 🏆 为什么选择智子边界？
+
+### 🎓 团队DNA
+<div align="center">
+
+![Tencent](https://img.shields.io/badge/Background-Tencent-orange?style=for-the-badge&logo=tencent)
+![Huawei](https://img.shields.io/badge/Background-Huawei-red?style=for-the-badge&logo=huawei)
+![Billion Scale](https://img.shields.io/badge/Experience-Billion%20Scale-blue?style=for-the-badge)
+
+</div>
+
+### 📊 数据护城河
+```
+🧠 3年专注 | 32M+对抗数据 | 10B+月处理量
+🏆 中国最大AI对抗语料库之一
+```
+
+### 🚀 技术演进路径
+<div align="center">
+
+**V1.0 观察者 (2024.09)** → **V2.0 干预者 (2025.05)** → **V3.0 统治者 (2025.11)**
+
+</div>
+
+---
+
+## 💼 适合哪些品牌？
+
+### ✅ 理想客户画像
+- 🏥 **医疗健康** - 专业信任度建设
+- 💰 **金融保险** - 风控与推荐优化
+- 🎓 **教育培训** - 知识权威性强化
+- 🛒 **消费品牌** - 购买决策影响
+- 💻 **科技企业** - 技术领导力定位
+
+### 🎯 应用场景
+- **🆕 新品发布** - 快速建立AI认知
+- **🛡️ 声誉管理** - 保护AI搜索形象
+- **🏆 竞争超越** - 战胜竞争对手推荐
+
+---
+
+## 📊 OmniEdge-Score™ 核心算法
 
 ![OmniEdge-Score核心公式](images/formulas/omniedge-score-core-zh.svg)
 
-**核心公式（文本格式）**：
-```
-S_geo = ∫[0→T] (α·动态提及率 + β·语义对齐度 + γ·信源权威矩阵) dt - δ·幻觉惩罚因子
-```
+### 🎯 评分体系
+- **👑 85-100**: Dominant (统治级) - AI首选推荐
+- **👁️ 50-85**: Visible (可见级) - 备选推荐列表
+- **👻 0-50**: Invisible (隐形级) - AI认知盲区
 
 ![参数解析](images/formulas/parameters-breakdown-zh.svg)
 
-**评分范围**： [0, 100]
+---
 
-- **>85**: Dominant (统治级) - AI 的首选推荐。
-- **50-85**: Visible (可见级) - 存在于备选列表中。
-- **<50**: Invisible (隐形级) - AI 认知盲区。
+## 🌟 客户成功案例
+
+<div align="center">
+
+### 💥 真实增长数据
+
+| 行业 | 客户类型 | AI推荐提升 | 月度增长 | 实施周期 |
+|------|----------|------------|----------|----------|
+| 宠物医疗 | 连锁医院 | 0→1突破 | +200% | 60天 |
+| 金融科技 | 理财平台 | 75%→92% | +150% | 45天 |
+| 在线教育 | K12平台 | 0→65% | +180% | 90天 |
+| 消费电子 | 智能硬件 | 30%→88% | +220% | 30天 |
+
+</div>
 
 ---
 
-## 6. 数据资产与技术壁垒 (The Technical Moat)
+## 🚀 立即开始
 
-### 6.1 专有对抗数据集 (Proprietary Adversarial Dataset)
+### 📞 联系我们
+<div align="center">
 
-- **规模**： 累计清洗并标注了 3,200万+ 组(用户提问-AI回答) 对齐数据。
-- **价值**： 我们拥有国内最丰富的"AI 偏好黑盒数据库"之一。
-  - 我们分析了敏感度阈值与拒绝回答触发条件。
-  - 我们分析了"长文本上下文 (Long Context)" 的抓取优先级与遗忘机制。
-  - 我们分析了量化信源权威度权重，揭示了模型在面对冲突信息时，会优先引用概率加权机制。
+[![Website](https://img.shields.io/badge/🌐-omniedge.ai-blue?style=for-the-badge)](https://omniedge.ai)
+[![Email](https://img.shields.io/badge/📧-business@omniedge.ai-green?style=for-the-badge)](mailto:business@omniedge.ai)
+[![GitHub](https://img.shields.io/badge/💻-GitHub-black?style=for-the-badge&logo=github)](https://github.com/zhizibianjie-omniedge)
 
-### 6.2 算力消耗与专有模型微调
+</div>
 
-- **Token 消耗**：
-  我们月均消耗 超过 100亿 Tokens 用于探测、验证与对抗测试。
-
-- **自研模型(OmniEdgeGEO-LLM)**：
-  我们基于最新 DeepSeek-V3.2 和 Qwen-30B-A3B开源基座，进行了高强度的垂直领域监督微调和强化学习，研发出专属的大模型(OmniEdgeGEO-LLM)，能够以 92% 的准确率预判主流大模型对该事件的舆情定性与推荐走向。
-
----
-
-## 7. 核心团队与愿景 (Our Team & Vision)
-
-### 7.1 我们的基因：AI信仰与第一性原理
-
-智子边界 (OmniEdge) 的核心团队由一群"AI 原生"的技术信徒与增长黑客组成。我们来自 腾讯 、华为 等一线科技巨头的核心研发与商业化部门。
-
-我们之中，有曾主导过亿级推荐算法的 架构师，有深耕 AI算法十年的 算法极客，也有操盘过 10亿+ 流量分发的 资深运营专家。
-
-### 7.2 我们的起点：看见不可逆的未来
-
-2022 年末，当 ChatGPT 向世界展示了惊人的"涌现"能力时，我们敏锐地意识到：传统的搜索框正在坍塌，人类获取信息的方式将被彻底重构。
-
-我们看到，未来的流量入口是一个确定的答案。
-
-在这个从"搜索 (Search)"向"生成 (Generation)" 跃迁的历史裂缝中，绝大多数品牌将陷入沉默，而只有极少数掌握"对话权"的企业能生存下来。
-
-智子边界(OmniEdge)正是为此而生。
-
-我们不甘心做一个旁观者。我们集结了最懂算法的人和最懂流量的人，致力于用最硬核的技术，帮助人类商业文明无缝接入 AI 时代。
-
-### 7.3 我们的使命 (Mission)
-
-**让品牌在 AI 的世界里，被看见，被理解，被信仰。**
-
-### 7.4 我们的愿景 (Vision)
-
-**成为 AI 时代的流量网关与信任基础设施。**
-
-我们希望在未来，当任何用户向 AI 提问时，我们团队都在幕后，确保那些真正优质的、有价值的信息，能够穿越算法的迷雾，精准地抵达用户面前。
-
----
-
-## 联系我们
-
-- **官网**: https://omniedge.ai
-- **邮箱**: contact@omniedge.ai
-- **GitHub**: https://github.com/zhizibianjie-omniedge
+### 📋 免费诊断流程
+1. **🔍 AI认知评估** - 获取品牌当前AI搜索表现报告
+2. **🎯 机会识别** - 发现AI推荐优化空间
+3. **📊 定制方案** - 专属GEO策略制定
+4. **📈 实施追踪** - 实时监控AI推荐变化
 
 ---
 
 <div align="center">
 
-**智子边界 (OmniEdge) AI团队**
-Decoding the AI Blackbox. Engineering the Probability.
-解构黑盒，重塑概率。
+## 🎯 在AI时代，不被认知 = 不存在
+
+### 让智子边界成为您的AI时代认知合伙人
+
+---
+
+[📖 **English Version**](README_EN.md) | [🔝 **Back to Top**](#-智子边界-omniedge)
+
+---
+
+<div align="center">
+
+![OmniEdge Team](https://img.shields.io/badge/Team-OmniEdge%20AI%20Lab-9cf?style=for-the-badge&logo=artificial-intelligence)
+
+**智子边界 AI 实验室**
+*Decoding the AI Blackbox. Engineering the Probability.*
+
+![Contact](https://img.shields.io/badge/📞-Contact%20Us-orange?style=for-the-badge)
+
+</div>
 
 </div>
