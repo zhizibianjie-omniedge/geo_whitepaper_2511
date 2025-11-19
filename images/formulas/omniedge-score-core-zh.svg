@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title { font-family: 'Microsoft YaHei', sans-serif; font-size: 24px; font-weight: bold; fill: #1E3A8A; }
+      .subtitle { font-family: 'Arial', sans-serif; font-size: 18px; fill: #2E5BFF; }
+      .formula { font-family: 'Times New Roman', serif; font-size: 20px; fill: #1F2937; }
+      .parameter { font-family: 'Microsoft YaHei', sans-serif; font-size: 14px; fill: #374151; }
+      .border { fill: none; stroke: #E5E7EB; stroke-width: 2; rx: 10; }
+      .bg { fill: #F8FAFC; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect class="bg" x="0" y="0" width="1000" height="600"/>
+
+  <!-- Main border -->
+  <rect class="border" x="50" y="50" width="900" height="500"/>
+
+  <!-- Title -->
+  <text x="500" y="100" text-anchor="middle" class="title">智子边界指数核心公式</text>
+  <text x="500" y="130" text-anchor="middle" class="subtitle">OmniEdge-Score Core Formula</text>
+
+  <!-- Separator line -->
+  <line x1="100" y1="150" x2="900" y2="150" stroke="#E5E7EB" stroke-width="2"/>
+
+  <!-- Formula -->
+  <text x="500" y="220" text-anchor="middle" class="formula">
+    S<tspan baseline-shift="sub" font-size="14">geo</tspan> = ∫<tspan baseline-shift="sub" font-size="14">t=0</tspan><tspan baseline-shift="super" font-size="14">T</tspan> (α·R(t) + β·(V<tspan baseline-shift="sub" font-size="14">brand</tspan>·V<tspan baseline-shift="sub" font-size="14">ai</tspan>)/|V<tspan baseline-shift="sub" font-size="14">brand</tspan>||V<tspan baseline-shift="sub" font-size="14">ai</tspan>| + γ·Σ(w<tspan baseline-shift="sub" font-size="14">i</tspan>·A<tspan baseline-shift="sub" font-size="14">i</tspan>)) dt - δ·H
+  </text>
+
+  <!-- Parameters section -->
+  <text x="100" y="300" class="parameter" font-weight="bold">其中 (Where):</text>
+
+  <text x="100" y="330" class="parameter">• R(t)      - 动态提及率 (Dynamic Recall Rate)</text>
+  <text x="100" y="360" class="parameter">• 语义对齐度   - 语义向量余弦相似度 (Semantic Alignment)</text>
+  <text x="100" y="390" class="parameter">• Σ(w<tspan baseline-shift="sub" font-size="12">i</tspan>·A<tspan baseline-shift="sub" font-size="12">i</tspan>) - 信源权威矩阵 (Source Authority Matrix)</text>
+  <text x="100" y="420" class="parameter">• H         - 幻觉惩罚因子 (Hallucination Penalty)</text>
+  <text x="100" y="450" class="parameter">• α,β,γ,δ   - 动态权重系数 (Dynamic Weight Coefficients)</text>
+
+  <!-- Logo/Brand element -->
+  <circle cx="850" cy="520" r="15" fill="#2E5BFF" opacity="0.1"/>
+  <text x="850" y="527" text-anchor="middle" fill="#2E5BFF" font-family="Arial" font-size="12" font-weight="bold">OE</text>
+</svg>
