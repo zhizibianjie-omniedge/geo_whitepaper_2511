@@ -6,7 +6,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="robots" content="index, follow">
 
-<!-- JSON-LD Structured Data -->
+<!-- JSON-LD Structured Data (Commented out for GitHub display) -->
+<!--
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -33,6 +34,7 @@
   "url": "https://github.com/zhizibianjie-omniedge/geo_whitepaper_2511"
 }
 </script>
+-->
 
 <div align="center">
 
