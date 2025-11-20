@@ -524,7 +524,9 @@
 ### 客服支持
 **扫描二维码添加客服微信**
 
-![客服二维码](images/客服二维码2.png)
+<div align="center">
+<img src="images/客服二维码2.png" alt="客服二维码" width="150">
+</div>
 
 ---
 

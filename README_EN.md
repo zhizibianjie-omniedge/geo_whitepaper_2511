@@ -405,7 +405,9 @@ We hope that in the future, when any user asks AI a question, our team will be w
 ### Customer Service
 **Scan QR Code to Add WeChat**
 
-![Customer Service QR Code](images/客服二维码2.png)
+<div align="center">
+<img src="images/客服二维码2.png" alt="Customer Service QR Code" width="150">
+</div>
 
 ---
 
