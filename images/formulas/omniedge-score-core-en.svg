@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title { font-family: 'Arial', sans-serif; font-size: 24px; font-weight: bold; fill: #1E3A8A; }
+      .subtitle { font-family: 'Arial', sans-serif; font-size: 16px; fill: #2E5BFF; }
+      .formula { font-family: 'Times New Roman', serif; font-size: 22px; fill: #1F2937; }
+      .parameter { font-family: 'Arial', sans-serif; font-size: 14px; fill: #374151; }
+      .border { fill: none; stroke: #E5E7EB; stroke-width: 2; rx: 10; }
+      .bg { fill: #F8FAFC; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect class="bg" x="0" y="0" width="1000" height="500"/>
+
+  <!-- Main border -->
+  <rect class="border" x="50" y="50" width="900" height="400"/>
+
+  <!-- Title -->
+  <text x="500" y="90" text-anchor="middle" class="title">OmniEdge-Score Core Formula</text>
+  <text x="500" y="115" text-anchor="middle" class="subtitle">Generative Engine Optimization Algorithm</text>
+
+  <!-- Separator line -->
+  <line x1="100" y1="135" x2="900" y2="135" stroke="#E5E7EB" stroke-width="2"/>
+
+  <!-- Formula -->
+  <text x="500" y="200" text-anchor="middle" class="formula">
+    S<tspan baseline-shift="sub" font-size="14">geo</tspan> = ∫<tspan baseline-shift="sub" font-size="14">t=0</tspan><tspan baseline-shift="super" font-size="14">T</tspan> (α·R(t) + β·
+  </text>
+  <text x="500" y="230" text-anchor="middle" class="formula">
+    (V<tspan baseline-shift="sub" font-size="14">brand</tspan>·V<tspan baseline-shift="sub" font-size="14">ai</tspan>)/|V<tspan baseline-shift="sub" font-size="14">brand</tspan>||V<tspan baseline-shift="sub" font-size="14">ai</tspan>|
+  </text>
+  <text x="500" y="260" text-anchor="middle" class="formula">
+    + γ·Σ(w<tspan baseline-shift="sub" font-size="14">i</tspan>·A<tspan baseline-shift="sub" font-size="14">i</tspan>)) dt - δ·H
+  </text>
+
+  <!-- Parameters section -->
+  <text x="100" y="310" class="parameter" font-weight="bold">Key Parameters:</text>
+
+  <text x="100" y="335" class="parameter">• R(t) - Dynamic Recall Rate • V<sub>brand</sub>·V<sub>ai</sub> - Semantic Alignment • Σ(w<sub>i</sub>·A<sub>i</sub>) - Source Authority</text>
+  <text x="100" y="360" class="parameter">• H - Hallucination Penalty • α,β,γ,δ - Dynamic Weight Coefficients</text>
+
+  <!-- Footer -->
+  <text x="500" y="410" text-anchor="middle" class="parameter" font-size="12" fill="#6B7280">
+    Score Range: 0-100 | &gt;85 (Dominant) | 50-85 (Visible) | &lt;50 (Invisible)
+  </text>
+
+  <!-- Brand element -->
+  <circle cx="850" cy="420" r="12" fill="#2E5BFF" opacity="0.1"/>
+  <text x="850" y="425" text-anchor="middle" fill="#2E5BFF" font-family="Arial" font-size="10" font-weight="bold">OE</text>
+</svg>
