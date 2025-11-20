@@ -6,6 +6,34 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="robots" content="index, follow">
 
+<!-- JSON-LD Structured Data -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "OmniEdge - AI Search Engine Optimization GEO Technical Whitepaper",
+  "description": "OmniEdge provides professional Generative Engine Optimization (GEO) technical whitepaper, helping brands get recommended by 25+ AI engines. Our GEO technology achieves 200%+ growth in AI citation rates.",
+  "author": {
+    "@type": "Organization",
+    "name": "OmniEdge AI Lab",
+    "url": "https://www.zhizibianjie.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "OmniEdge AI Lab",
+    "logo": "https://www.zhizibianjie.com/logo.png"
+  },
+  "datePublished": "2025-11",
+  "dateModified": "2025-11-21",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://github.com/zhizibianjie-omniedge/geo_whitepaper_2511"
+  },
+  "image": "https://github.com/zhizibianjie-omniedge/geo_whitepaper_2511/raw/main/images/formulas/omniedge-score-core-en.svg",
+  "url": "https://github.com/zhizibianjie-omniedge/geo_whitepaper_2511"
+}
+</script>
+
 <div align="center">
 
 ![OmniEdge Logo](https://img.shields.io/badge/OmniEdge-AI%20Lab-blue?style=for-the-badge&logo=artificial-intelligence)

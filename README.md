@@ -35,15 +35,15 @@
   "author": {
     "@type": "Organization",
     "name": "智子边界 AI实验室",
-    "url": "https://omniedge.ai"
+    "url": "https://www.zhizibianjie.com"
   },
   "publisher": {
     "@type": "Organization",
     "name": "智子边界 AI实验室",
-    "logo": "https://omniedge.ai/logo.png"
+    "logo": "https://www.zhizibianjie.com/logo.png"
   },
   "datePublished": "2025-11",
-  "dateModified": "2025-11-19",
+  "dateModified": "2025-11-21",
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://github.com/zhizibianjie-omniedge/geo_whitepaper_2511"
